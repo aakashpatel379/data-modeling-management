@@ -80,5 +80,5 @@ the design.
 **Final Design**
 <img src="Final_Design_ERD.png" width=800/>
 
-### Licence
+### License
 Aakash Patel - B00807065
